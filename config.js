@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['+923032352740', '𝙱𝚊𝚠𝚊 𝙼𝚞𝚋𝚊𝚛𝚊𝚔 𝚂𝚑𝚊𝚑', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['919074692450','919074692450'] 
-global.prems = ['919074692450', '919074692450', '919074692450']
+global.mods = ['+923032352740','+923032352740'] 
+global.prems = ['+923032352740', '+923032352740', '+923032352740']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -22,7 +22,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['BrunoSobrino']
 
-global.APIs = { // API Prefix
+global.APIs = { // API Prefix .
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
@@ -47,12 +47,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = '𝙱𝚊𝚠𝚊 𝙼𝚞𝚋𝚊𝚛𝚊𝚔 𝚂𝚑𝚊𝚑 '
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
+global.packname = '𝙱𝚊𝚠𝚊 𝙼𝚞𝚋𝚊𝚛𝚊𝚔 𝚂𝚑𝚊𝚑🎯𝙱𝚊𝚠𝚊 𝙼𝚞𝚋𝚊𝚛𝚊𝚔 𝚂𝚑𝚊𝚑☘️' 
+global.author = '𝙱𝚊𝚠𝚊 𝙼𝚞𝚋𝚊𝚛𝚊𝚔 𝚂𝚑𝚊𝚑 ' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
-global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
+global.dygp = 'https://chat.whatsapp.com/Jv2PzD0zU721zNGcJFprpM'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
 global.fgyt = 'https://youtube.com/@comedymelodych8468'
 global.fgpyp = 'https://youtube.com/@comedymelodych8468'
